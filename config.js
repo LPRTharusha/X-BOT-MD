@@ -18,13 +18,13 @@ SESSION_ID: '' //Put your session id here
 //---------------------------------
 // Only use true/false
 //---------------------------------
-global.autoTyping = false //Auto typing...(true for on, false for off)
+global.autoTyping = true //Auto typing...(true for on, false for off)
 global.autoRecord = false // Auto recording...(true for on, false for off)
-global.autoread = false // Auto Message read(true for on, false for off)
+global.autoread = true // Auto Message read(true for on, false for off)
 global.alwaysonline = true // Always Online(true for on, false for off)
 global.statusread = true // Auto status read 🗿🖐🏻(true for on, false for off)
 global.private = true // worktype(true for private, false for public)
-global.autoreact = false // Auto react ( verum myra aah 🤣🙌🏻 )
+global.autoreact = true // Auto react ( verum myra aah 🤣🙌🏻 )
 global.autodlyt = false // Auto YouTube video downloader(true for on, false for off)
 global.largethumb = "true" // for large thumbnail 
 global.version = "1.1.1"
@@ -35,7 +35,7 @@ global.prefix = "." // use "" for removing prefix
 global.ownername = "ᴛᴇᴀᴍ ᴇx-ʙᴏᴛ-ᴢ" // Bot Owner name
 global.botname = "x-ʙᴏᴛ-ᴍᴅ" //bot name
 global.thumb = "https://i.imgur.com/IIHEyLI.jpg" // bot image overall
-global.ownernumber = ["917012984396","917594898804","919961857267"] //SODO / OWNER NUMBER
+global.ownernumber = ["94714774537","94714774537","94714774537"] //SODO / OWNER NUMBER
 global.caption = "_*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ x-ʙᴏᴛ-ᴍᴅ*_" // Caption 
 //---------------------------------
 // Owner Mention Audio
