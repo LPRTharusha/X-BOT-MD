@@ -7,7 +7,7 @@ const chalk = require('chalk')
 // SESSION ID CONECTING 👇🏻
 //-------------------------
 module.exports = {
-SESSION_ID: '' //Put your session id here
+SESSION_ID: 'A-S-W-I-N-S-P-A-R-K-Y:bd69f933b0b56ab0ce8bb2fb68a4ba41' //Put your session id here
 }
 /*
 
